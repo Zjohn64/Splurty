@@ -1,3 +1,4 @@
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -53,6 +54,8 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+	font-family: 'source_code_probold', sans-serif;
+	font-weight: bold;
 }
 
 header{
@@ -64,13 +67,15 @@ hr{
 }
 
 h1 {
-	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	font-weight: 600;
-	letter-spacing: -1.5px;
+	font-family:  'source_code_probold', sans-serif;
+	font-weight: bold;
+	-spletteracing: -1.5px;
+	font-size: 48px;
 }
 
 h2 {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family:  'source_code_problack', cursive;
   font-weight: 600;
   letter-spacing: -1.5px;
+  font-size: 36px;
 }
